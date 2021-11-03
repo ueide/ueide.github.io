@@ -1030,23 +1030,12 @@ a {
   }
 }
 .cid-sNHVsYG806 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-sNHVsYG806 .row {
   flex-direction: row-reverse;
-}
-.cid-sNHVsYG806 .container-fluid {
-  padding: 0;
-}
-.cid-sNHVsYG806 .text-wrapper {
-  padding: 0 4rem;
-}
-@media (max-width: 768px) {
-  .cid-sNHVsYG806 .text-wrapper {
-    padding: 0 2rem;
-  }
 }
 @media (max-width: 991px) {
   .cid-sNHVsYG806 .image-wrapper {
@@ -1060,7 +1049,6 @@ a {
 @media (min-width: 992px) {
   .cid-sNHVsYG806 .text-wrapper {
     padding: 0 2rem;
-    padding: 0 4rem;
   }
 }
 @media (max-width: 768px) {
