@@ -59,14 +59,14 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/photo-from-louise-santos-128x128.png",
-    "mbrsiteDomain": "ljshcommzd",
+    "mbrsiteDomain": "0xkzxusas9",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
