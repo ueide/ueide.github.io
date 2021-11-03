@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ueide Teixeira",
-    "currentPage": "index.html",
+    "currentPage": "sobre.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -72,8 +72,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ueide Teixeira",
+        "meta_descr": "Ueide Teixeira - UX Designer",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1268,7 +1268,8 @@
     "sobre.html": {
       "settings": {
         "title": "Sobre",
-        "order": 1
+        "order": 1,
+        "meta_descr": ""
       },
       "components": [
         {
