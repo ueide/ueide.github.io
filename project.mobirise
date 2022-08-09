@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ueide Teixera",
-    "currentPage": "inicio.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,7 @@
     "uniqCompNum": 80,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "home.html": {
