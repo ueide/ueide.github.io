@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ueide Teixera",
-    "currentPage": "hom.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2124,7 +2124,7 @@
         }
       ]
     },
-    "hom.html": {
+    "inicio.html": {
       "settings": {
         "main": true,
         "title": "Ueide T.",
