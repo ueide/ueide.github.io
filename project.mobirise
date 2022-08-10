@@ -54,7 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "publishChangesOnly": false
@@ -62,7 +62,7 @@
   "pages": {
     "home.html": {
       "settings": {
-        "title": "Ueide T. home",
+        "title": "Ueide T.",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -764,7 +764,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "Ueide T. about",
+        "title": "Ueide T.",
         "order": 3
       },
       "components": [
@@ -1445,7 +1445,7 @@
     },
     "sobre.html": {
       "settings": {
-        "title": "Ueide T. sobre",
+        "title": "Ueide T.",
         "order": 1
       },
       "components": [
@@ -2127,7 +2127,7 @@
     "inicio.html": {
       "settings": {
         "main": true,
-        "title": "Ueide T. casa",
+        "title": "Ueide T.",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
