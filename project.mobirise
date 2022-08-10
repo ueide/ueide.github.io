@@ -46,7 +46,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "x8iht7yiup",
+    "mbrsiteDomain": "go5hs8at9w",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -57,12 +57,12 @@
     "uniqCompNum": 81,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "home.html": {
       "settings": {
-        "title": "Ueide T.",
+        "title": "Ueide T. Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -764,7 +764,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "Ueide T.",
+        "title": "Ueide T. About",
         "order": 3
       },
       "components": [
@@ -1445,7 +1445,7 @@
     },
     "sobre.html": {
       "settings": {
-        "title": "Ueide T.",
+        "title": "Ueide T. Sobre",
         "order": 1
       },
       "components": [
@@ -2127,7 +2127,7 @@
     "inicio.html": {
       "settings": {
         "main": true,
-        "title": "Ueide T.",
+        "title": "Ueide T. Inicio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
