@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Portifolio Ueide Teixeira ",
-    "currentPage": "inicio.html",
+    "name": "Portfolio Ueide Teixeira ",
+    "currentPage": "sobre.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,26 +49,26 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 276,
+    "uniqCompNum": 285,
     "versionPublish": "5.7.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/frame-6-96x94-96x94.png",
-    "mbrsiteDomain": "vngdu3696j",
+    "mbrsiteDomain": "ebcnt1gtn9",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-2QQE0G5WNY\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-2QQE0G5WNY');\n</script>"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ueide portifolio - Home",
+        "title": "Ueide portfolio - Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -897,8 +897,8 @@
     },
     "sobre.html": {
       "settings": {
-        "title": "Ueide portifolio - Sobre",
-        "order": "7"
+        "title": "Ueide portfolio - Sobre",
+        "order": "4"
       },
       "components": [
         {
@@ -1497,8 +1497,8 @@
     },
     "about_me.html": {
       "settings": {
-        "title": "Ueide portifolio - About me",
-        "order": "1",
+        "title": "Ueide portfolio - About me",
+        "order": "2",
         "socialSharingUrl": ""
       },
       "components": [
@@ -2099,12 +2099,12 @@
     },
     "inicio.html": {
       "settings": {
-        "title": "Ueide portifolio - Início",
+        "title": "Ueide portfolio - Início",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "2"
+        "order": "3"
       },
       "components": [
         {
