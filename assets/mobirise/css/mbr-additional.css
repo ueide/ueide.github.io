@@ -2166,15 +2166,15 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-trdXpz3wrx {
+.cid-tvtyLjNomZ {
   padding-top: 60px;
   padding-bottom: 45px;
   background-color: #fafafa;
 }
-.cid-trdXpz3wrx .mbr-fallback-image.disabled {
+.cid-tvtyLjNomZ .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-trdXpz3wrx .mbr-fallback-image {
+.cid-tvtyLjNomZ .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2183,18 +2183,18 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-trdXpz3wrx .media-container-row {
+.cid-tvtyLjNomZ .media-container-row {
   justify-content: space-between;
 }
-.cid-trdXpz3wrx .text-content {
+.cid-tvtyLjNomZ .text-content {
   max-width: 50%;
 }
 @media (max-width: 768px) {
-  .cid-trdXpz3wrx .text-content {
+  .cid-tvtyLjNomZ .text-content {
     max-width: none;
   }
 }
-.cid-trdXpz3wrx .mbr-iconfont-social {
+.cid-tvtyLjNomZ .mbr-iconfont-social {
   margin: 0.5rem;
   font-size: 32px;
   display: flex;
@@ -2206,18 +2206,18 @@ a {
   align-content: center;
   transition: all 0.3s;
 }
-.cid-trdXpz3wrx .mbr-iconfont-social:before {
+.cid-tvtyLjNomZ .mbr-iconfont-social:before {
   padding: 0.6rem;
 }
-.cid-trdXpz3wrx .mbr-iconfont-social:hover {
+.cid-tvtyLjNomZ .mbr-iconfont-social:hover {
   background-color: #212121;
   color: #ffffff;
 }
 @media (max-width: 768px) {
-  .cid-trdXpz3wrx .icons {
+  .cid-tvtyLjNomZ .icons {
     justify-content: center !important;
   }
-  .cid-trdXpz3wrx .text-content * {
+  .cid-tvtyLjNomZ .text-content * {
     text-align: center;
   }
 }
