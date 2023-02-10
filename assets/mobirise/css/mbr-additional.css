@@ -2166,15 +2166,15 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-tvtyLjNomZ {
+.cid-tvtzX1WYas {
   padding-top: 60px;
   padding-bottom: 45px;
   background-color: #fafafa;
 }
-.cid-tvtyLjNomZ .mbr-fallback-image.disabled {
+.cid-tvtzX1WYas .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tvtyLjNomZ .mbr-fallback-image {
+.cid-tvtzX1WYas .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2183,18 +2183,18 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tvtyLjNomZ .media-container-row {
+.cid-tvtzX1WYas .media-container-row {
   justify-content: space-between;
 }
-.cid-tvtyLjNomZ .text-content {
+.cid-tvtzX1WYas .text-content {
   max-width: 50%;
 }
 @media (max-width: 768px) {
-  .cid-tvtyLjNomZ .text-content {
+  .cid-tvtzX1WYas .text-content {
     max-width: none;
   }
 }
-.cid-tvtyLjNomZ .mbr-iconfont-social {
+.cid-tvtzX1WYas .mbr-iconfont-social {
   margin: 0.5rem;
   font-size: 32px;
   display: flex;
@@ -2206,18 +2206,18 @@ a {
   align-content: center;
   transition: all 0.3s;
 }
-.cid-tvtyLjNomZ .mbr-iconfont-social:before {
+.cid-tvtzX1WYas .mbr-iconfont-social:before {
   padding: 0.6rem;
 }
-.cid-tvtyLjNomZ .mbr-iconfont-social:hover {
+.cid-tvtzX1WYas .mbr-iconfont-social:hover {
   background-color: #212121;
   color: #ffffff;
 }
 @media (max-width: 768px) {
-  .cid-tvtyLjNomZ .icons {
+  .cid-tvtzX1WYas .icons {
     justify-content: center !important;
   }
-  .cid-tvtyLjNomZ .text-content * {
+  .cid-tvtzX1WYas .text-content * {
     text-align: center;
   }
 }
